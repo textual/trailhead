@@ -49,11 +49,11 @@
             "sourcePath": "/Users/danielmarks/Documents/work/trailhead/my_sfdx_project/sfdx-dreamhouse/geolocation/force-app/main/default/aura",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 224,
-            "modifiedTime": 1527028972098,
-            "changeTime": 1527028972098,
+            "size": 192,
+            "modifiedTime": 1527028529180,
+            "changeTime": 1527028529180,
             "isWorkspace": false,
-            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5"
+            "contentHash": "8cd9050c0243d5302f6ec35c695333142456ef1f"
         }
     ],
     [
@@ -281,14 +281,14 @@
     [
         "/Users/danielmarks/Documents/work/trailhead/my_sfdx_project/sfdx-dreamhouse/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/danielmarks/Documents/work/trailhead/my_sfdx_project/sfdx-dreamhouse/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1527028737806,
             "changeTime": 1527028737806,
-            "contentHash": "a54ebeac81c4b754293494a2afabbb560c1061e2",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "a54ebeac81c4b754293494a2afabbb560c1061e2"
         }
     ],
     [
@@ -515,14 +515,14 @@
     [
         "/Users/danielmarks/Documents/work/trailhead/my_sfdx_project/sfdx-dreamhouse/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/danielmarks/Documents/work/trailhead/my_sfdx_project/sfdx-dreamhouse/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
             "isDirectory": false,
+            "size": 355,
+            "modifiedTime": 1527027856275,
+            "changeTime": 1527027856275,
+            "contentHash": "f0d532c361014b8b7b2395b2aebdb9d3a3b39e07",
             "isMetadataFile": false,
-            "size": 558,
-            "modifiedTime": 1527029294582,
-            "changeTime": 1527029294582,
-            "contentHash": "bac5c372510603fb2946078c16d19ff84924c9fa"
+            "state": "u"
         }
     ],
     [
@@ -580,14 +580,14 @@
     [
         "/Users/danielmarks/Documents/work/trailhead/my_sfdx_project/sfdx-dreamhouse/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/danielmarks/Documents/work/trailhead/my_sfdx_project/sfdx-dreamhouse/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
             "isDirectory": false,
+            "size": 256,
+            "modifiedTime": 1527027901160,
+            "changeTime": 1527027901160,
+            "contentHash": "9f73369ca66b087616f3bb8205b8e3f57484b270",
             "isMetadataFile": false,
-            "size": 401,
-            "modifiedTime": 1527029366201,
-            "changeTime": 1527029366201,
-            "contentHash": "e64918b8e13c86f0392b8fcf2cf67a810628709a"
+            "state": "u"
         }
     ],
     [
@@ -918,27 +918,27 @@
     [
         "/Users/danielmarks/Documents/work/trailhead/my_sfdx_project/sfdx-dreamhouse/geolocation/force-app/main/default/aura/AccountMap",
         {
+            "state": "u",
             "sourcePath": "/Users/danielmarks/Documents/work/trailhead/my_sfdx_project/sfdx-dreamhouse/geolocation/force-app/main/default/aura/AccountMap",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 352,
             "modifiedTime": 1527028529183,
             "changeTime": 1527028529183,
-            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486"
         }
     ],
     [
         "/Users/danielmarks/Documents/work/trailhead/my_sfdx_project/sfdx-dreamhouse/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
         {
+            "state": "u",
             "sourcePath": "/Users/danielmarks/Documents/work/trailhead/my_sfdx_project/sfdx-dreamhouse/geolocation/force-app/main/default/aura/AccountMap/AccountMap.auradoc",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1527028529183,
             "changeTime": 1527028529183,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
         }
     ],
     [
@@ -948,62 +948,62 @@
             "sourcePath": "/Users/danielmarks/Documents/work/trailhead/my_sfdx_project/sfdx-dreamhouse/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 334,
-            "modifiedTime": 1527029449945,
-            "changeTime": 1527029449945,
-            "contentHash": "26040fd369ab41e5f3c344d3555464ddca8caded"
+            "size": 260,
+            "modifiedTime": 1527028599072,
+            "changeTime": 1527028599072,
+            "contentHash": "d85965e311221bc707bcc85096e9420a4a918f20"
         }
     ],
     [
         "/Users/danielmarks/Documents/work/trailhead/my_sfdx_project/sfdx-dreamhouse/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/danielmarks/Documents/work/trailhead/my_sfdx_project/sfdx-dreamhouse/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 242,
             "modifiedTime": 1527028529181,
             "changeTime": 1527028529181,
-            "contentHash": "b077571a2f804c85e2f389b95989fc6cf62a87af",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "b077571a2f804c85e2f389b95989fc6cf62a87af"
         }
     ],
     [
         "/Users/danielmarks/Documents/work/trailhead/my_sfdx_project/sfdx-dreamhouse/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
         {
+            "state": "u",
             "sourcePath": "/Users/danielmarks/Documents/work/trailhead/my_sfdx_project/sfdx-dreamhouse/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1527028636479,
             "changeTime": 1527028636479,
-            "contentHash": "1b7513aa1fdc650ee47e8f91d28905bea72411d1",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "1b7513aa1fdc650ee47e8f91d28905bea72411d1"
         }
     ],
     [
         "/Users/danielmarks/Documents/work/trailhead/my_sfdx_project/sfdx-dreamhouse/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
         {
+            "state": "u",
             "sourcePath": "/Users/danielmarks/Documents/work/trailhead/my_sfdx_project/sfdx-dreamhouse/geolocation/force-app/main/default/aura/AccountMap/AccountMap.design",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1527028529183,
             "changeTime": 1527028529183,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
         }
     ],
     [
         "/Users/danielmarks/Documents/work/trailhead/my_sfdx_project/sfdx-dreamhouse/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
         {
+            "state": "u",
             "sourcePath": "/Users/danielmarks/Documents/work/trailhead/my_sfdx_project/sfdx-dreamhouse/geolocation/force-app/main/default/aura/AccountMap/AccountMap.svg",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1527028529183,
             "changeTime": 1527028529183,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
         }
     ],
     [
@@ -1013,75 +1013,36 @@
             "sourcePath": "/Users/danielmarks/Documents/work/trailhead/my_sfdx_project/sfdx-dreamhouse/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 832,
-            "modifiedTime": 1527029569934,
-            "changeTime": 1527029569934,
-            "contentHash": "ce10470558b3047e56f54f6de62c7524b3ef5ef9"
+            "size": 389,
+            "modifiedTime": 1527028617379,
+            "changeTime": 1527028617379,
+            "contentHash": "96df2bbc44d6a1cc778c826039135b3cba593eaa"
         }
     ],
     [
         "/Users/danielmarks/Documents/work/trailhead/my_sfdx_project/sfdx-dreamhouse/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
         {
+            "state": "u",
             "sourcePath": "/Users/danielmarks/Documents/work/trailhead/my_sfdx_project/sfdx-dreamhouse/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1527028529182,
             "changeTime": 1527028529182,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
         }
     ],
     [
         "/Users/danielmarks/Documents/work/trailhead/my_sfdx_project/sfdx-dreamhouse/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
         {
+            "state": "u",
             "sourcePath": "/Users/danielmarks/Documents/work/trailhead/my_sfdx_project/sfdx-dreamhouse/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1527028529182,
             "changeTime": 1527028529182,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/danielmarks/Documents/work/trailhead/my_sfdx_project/sfdx-dreamhouse/geolocation/force-app/main/default/aura/AccountsLoaded",
-        {
-            "state": "u",
-            "sourcePath": "/Users/danielmarks/Documents/work/trailhead/my_sfdx_project/sfdx-dreamhouse/geolocation/force-app/main/default/aura/AccountsLoaded",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 128,
-            "modifiedTime": 1527028972099,
-            "changeTime": 1527028972099,
-            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
-        }
-    ],
-    [
-        "/Users/danielmarks/Documents/work/trailhead/my_sfdx_project/sfdx-dreamhouse/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
-        {
-            "state": "u",
-            "sourcePath": "/Users/danielmarks/Documents/work/trailhead/my_sfdx_project/sfdx-dreamhouse/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 101,
-            "modifiedTime": 1527029025141,
-            "changeTime": 1527029025141,
-            "contentHash": "3d043fa3d281fd6d59cc86c1f79350f15eb5bbf8"
-        }
-    ],
-    [
-        "/Users/danielmarks/Documents/work/trailhead/my_sfdx_project/sfdx-dreamhouse/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/danielmarks/Documents/work/trailhead/my_sfdx_project/sfdx-dreamhouse/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 242,
-            "modifiedTime": 1527028972099,
-            "changeTime": 1527028972099,
-            "contentHash": "2761731f694cba49bd18f1129cb53c1074bf487c"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
